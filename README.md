@@ -8,5 +8,5 @@ Requirements:
 usage: script.py [-h] file
 
 examples:
-  python convert.py A.sav
-  python convert.py save.raw
+* python convert.py A.sav
+* python convert.py save.raw
