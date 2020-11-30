@@ -5,7 +5,7 @@ Requirements:
 * lz4
 * binaryfile
 
-usage: script.py [-h] file
+usage: python convert.py [-h] file
 
 examples:
 * python convert.py A.sav
